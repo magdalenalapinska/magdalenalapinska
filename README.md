@@ -5,4 +5,4 @@
 - <b>Dice Game (HTML, CSS, Vanilla JavaScript)</b>
   - [Dice Game](https://github.com/magdalenalapinska/dice-game)
 - <b>Modern Fully Responsive Website (Tailwind CSS, React.js)</b>
-  - [Brainwave](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/joshmadakor1/Algorithms-Practice))
+  - [Brainwave](https://github.com/magdalenalapinska/brainwave))
