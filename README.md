@@ -33,12 +33,12 @@ Mój najbardziej aktualny projekt zrealizowany w ramach przedmiotu Metody Oblicz
 
 ### 💼 Dotychczasowe doświadczenie
 
-* [cite_start]**Edukacja:** * Politechnika Krakowska (Informatyka w inż. komputerowej, 2025-obecnie)[cite: 23, 24, 25].
-  * [cite_start]ZSE w Białymstoku (Technik informatyk, 2020-2025)[cite: 21, 22].
-* [cite_start]**Staże zawodowe:** * Krótkoterminowe praktyki w Polsce (*Nacja Design*, *AiW System*) [cite: 28, 43] [cite_start]oraz w Portugalii (*BPGame & Informática*) [cite: 36][cite_start], podczas których miałam okazję zobaczyć, jak wygląda praca z WordPressem, podstawami Front-endu oraz serwisowaniem sprzętu IT[cite: 30, 38, 40, 46].
+* **Edukacja:** * Politechnika Krakowska (Informatyka w inż. komputerowej, 2025-obecnie).
+  * ZSE w Białymstoku (Technik informatyk, 2020-2025).
+* **Staże zawodowe:** * Krótkoterminowe praktyki w Polsce (*Nacja Design*, *AiW System*) oraz w Portugalii (*BPGame & Informática*), podczas których miałam okazję zobaczyć, jak wygląda praca z WordPressem, podstawami Front-endu oraz serwisowaniem sprzętu IT.
 
 ---
 
 ### 📫 Kontakt
-- **Email:** magdalena.lapinska@o2.pl [cite: 18]
-- [cite_start]**GitHub:** [@magdalenalapinska](https://github.com/magdalenalapinska) [cite: 19]
+- **Email:** magdalena.lapinska@o2.pl
+- **GitHub:** [@magdalenalapinska](https://github.com/magdalenalapinska)
