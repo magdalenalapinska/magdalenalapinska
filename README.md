@@ -1,7 +1,7 @@
 # Cześć, jestem Magdalena Łapińska! 👋
 
 👩‍💻 **O mnie**
-[cite_start]Jestem studentką **Informatyki w inżynierii komputerowej na Politechnice Krakowskiej**[cite: 23, 24]. [cite_start]Moją ścieżkę w IT rozpoczęłam w technikum informatycznym[cite: 21], gdzie zdobywałam pierwsze szlify m.in. z zakresu budowy stron internetowych i obsługi sprzętu. 
+Jestem studentką **Informatyki w inżynierii komputerowej na Politechnice Krakowskiej**. Moją ścieżkę w IT rozpoczęłam w technikum informatycznym, gdzie zdobywałam pierwsze szlify m.in. z zakresu budowy stron internetowych i obsługi sprzętu. 
 
 Obecnie, w ramach studiów, moje zainteresowania kierują się bardziej w stronę **metod obliczeniowych, analizy danych i języka Python**. Programowanie to dla mnie ciągła nauka – chętnie korzystam z tutoriali, dokumentacji i realizuję akademickie projekty, aby z każdym dniem wiedzieć trochę więcej.
 
@@ -19,7 +19,6 @@ Obecnie, w ramach studiów, moje zainteresowania kierują się bardziej w stron�
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
