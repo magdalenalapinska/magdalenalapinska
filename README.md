@@ -41,4 +41,3 @@ Mój najbardziej aktualny projekt zrealizowany w ramach przedmiotu Metody Oblicz
 
 ### 📫 Kontakt
 - **Email:** magdalena.lapinska@o2.pl
-- **GitHub:** [@magdalenalapinska](https://github.com/magdalenalapinska)
